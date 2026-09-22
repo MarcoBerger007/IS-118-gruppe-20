@@ -106,13 +106,16 @@ Erling bør fokusere på å ha gode rutiner for hvordan teamet skal kommunisere 
 
 ## Egenevaluering av gruppekontrakt og samarbeid
 
+Gruppekontrakten har fungert bra for gruppen vår. Spesielt i starten hjalp den oss med å komme i gang. Den fjernet mye av stillheten og usikkerheten som kan være i en ny gruppe, fordi vi fikk snakket om hva vi skulle gjøre, hvilke mål vi hadde og hva vi forventet av hverandre.
+Vi har hatt god kommunikasjon, fordelt oppgavene mellom oss og møtt hverandre for å jobbe sammen. Alle har gjort sin del, og det har gjort samarbeidet enklere. Vi visste hvem som hadde ansvar for hva, og hva som måtte gjøres videre.
+I starten hadde vi noen problemer med å komme presis til avtalte møter. Da måtte vi minne hverandre på tidspunktet vi hadde blitt enige om, og også på gruppekontrakten. Etter hvert ble dette bedre, og gruppen ble flinkere til å møte opp til tiden vi hadde avtalt.
+Vi har fulgt gruppekontrakten, men etter starten har vi ikke hatt så stort behov for å bruke den aktivt. Den var mest nyttig i starten, da vi fortsatt skulle bli kjent og finne ut hvordan vi skulle jobbe sammen. Etter hvert som samarbeidet ble bedre, ble det mindre behov for å gå tilbake til kontrakten.
+Gruppekontrakten gjorde det også lettere for oss å vite hvordan vi skulle jobbe sammen. Siden vi allerede hadde snakket om regler, forventninger og arbeidsfordeling, ble det enklere å ta opp små problemer uten at det ble unødvendig vanskelig. Vi hadde noe felles å vise tilbake til dersom vi var usikre på hva vi hadde blitt enige om.
+Det vi har lært er at en gruppekontrakt kan være veldig nyttig i starten av et prosjekt. Den kan gjøre det lettere å få klare mål, tydelige forventninger og en bedre start på samarbeidet. Neste gang ville vi fortsatt brukt en gruppekontrakt, men vært enda tydeligere på oppmøtetider og hva vi forventer av hverandre. Vi ville også skrevet mer konkret hva vi skal gjøre dersom noen ikke kan møte, blir forsinket eller ikke rekker sin del av oppgaven. Da blir kontrakten enda tydeligere og lettere å bruke i praksis.
 
+## Redegjørelse for bruk av KI
+I arbeidet med oppgaven har vi brukt ChatGPT som støtteverktøy. ChatGPT har blitt brukt til hjelp med disposisjon og strukturering av oppgaven, rettskriving av tekst vi selv har skrevet, og veiledning i del 2 for bruk av Git Bash og GitHub. Vi har selv vurdert og bearbeidet innholdet og står ansvarlige for den endelige besvarelsen.
 
-### 1\. Hensiktsmessighet og etterlevelse
-
-### 2\. Svakheter og rom for forbedring
-
-### 3\. Erfaringer og råd for fremtidig prosjektarbeid
 
 Konklusjon
 
