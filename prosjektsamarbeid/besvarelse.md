@@ -2,7 +2,7 @@
 
 ## Innledning
 
-Erling skal starte et nytt, heterogent og tidsavgrenset prosjekt. Han har derfor et behov for en oppstarts pakke. Dette er på grunn av at han trenger veiledning og forenkling av prosessen. Hoved oppgaven vår blir å gjøre det enkelt for Erling. Vi vil gjøre det lett for han å sette sammen et godt team i oppstarts fasen ut ifra de seks sentrale fokusområdene. Pakken vi lager vil inneholde: rekruttering og sammensetning, design, rammer for relasjonelle kontrakter, rammer for relasjonelle kontrakter, proaktive mekanismer for konflikthåndtering, håndtering av tidspress og planlegging, sikring av god kommunikasjon. Dette burde gjøre det lett og effektivt for Erling å sette i gang prosjektet sitt med et godt team.
+Erling skal starte et nytt, heterogent og tidsavgrenset prosjekt. Han har derfor et behov for en oppstarts pakke. Dette er på grunn av at han trenger veiledning og forenkling av prosessen. Hoved oppgaven vår blir å gjøre det enkelt for Erling. Vi vil gjøre det lett for han å sette sammen et godt team i oppstarts fasen ut ifra de seks sentrale fokusområdene. Pakken vi lager vil inneholde: rekruttering og sammensetning, design av første møtet, rammer for relasjonelle kontrakter, proaktive mekanismer for konflikthåndtering, håndtering av tidspress og planlegging, sikring av god kommunikasjon. Dette burde gjøre det lett og effektivt for Erling å sette i gang prosjektet sitt med et godt team.
 
 ## 1\. Strategi for rekruttering og sammensetning
 
@@ -68,6 +68,13 @@ Avslutting og videre arbeid
 -	Til slutt gir Erling en kort oppsummering av møte og planlegger arbeidet for de neste 2 ukene.
 ## 3. Rammer for relasjonelle kontrakter
 
+I et prosjekt er det vanlig å fokusere på tid, kostnad og kvalitet. Dette kalles jerntriangelet. For Erling betyr det at prosjektet skal være ferdig innen 15 måneder, holde seg innenfor budsjettet og samtidig ha god kvalitet. Men disse tre områdene alene er ikke nok for å sikre at prosjektet blir vellykket.
+Det er også viktig å tenke på relasjonene og samarbeidet mellom prosjekteier og prosjektleder. Selv om prosjektet holder tidsplanen og budsjettet, kan dårlig kommunikasjon, uklare forventninger og lite tillit skape problemer underveis. Et godt samarbeid kan gjøre det lettere å løse problemer og ta beslutninger når det skjer endringer i prosjektet.
+
+Erling og prosjekteier bør derfor tidlig avklare hvordan de skal samarbeide. De bør være enige om hvem som har ansvar for hva, hvilke beslutninger Erling kan ta selv, og hvilke beslutninger som må godkjennes av prosjekteier. De bør også avtale hvordan de skal kommunisere, hvor ofte de skal ha møter og hvordan de skal håndtere problemer og endringer underveis.
+
+
+
 ## 4\. Proaktive mekanismer for konflikthåndtering
 
 I et team med forskjellige type mennesker vil det stadig dukke opp uenigheter. Derfor er det viktig for prosjektleder Erling å ha en god takhøyde og evner til å kunne løse konflikter. Langtidsgående konflikter vil kunne gjøre prosessen til et god slutt produkt vanskeligere hvis deler av gruppen har store uenigheter eller ikke trives med sine arbeids kolleger.
@@ -99,11 +106,17 @@ Erling bør fokusere på å ha gode rutiner for hvordan teamet skal kommunisere 
 
 ## Egenevaluering av gruppekontrakt og samarbeid
 
+
+
 ### 1\. Hensiktsmessighet og etterlevelse
 
 ### 2\. Svakheter og rom for forbedring
 
 ### 3\. Erfaringer og råd for fremtidig prosjektarbeid
+
+Konklusjon
+
+For å få en god start på prosjektet bør Erling først fokusere på å sette sammen et godt team med tydelige roller og god kommunikasjon. Han bør også bygge tillit i gruppen, håndtere konflikter tidlig og ha en plan som kan endres underveis. Dette kan bidra til bedre samarbeid, færre misforståelser og gjøre det lettere for gruppen å nå målene med prosjektet.
 
 ## Referanser
 
